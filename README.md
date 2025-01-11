@@ -38,22 +38,23 @@ This is a Python script designed to perform a Denial of Service (DoS) attack on 
    ```bash
    git clone https://github.com/bhikandeshmukh/bluthat.git
    cd bluthat
+   ```
 
 ## Usage
-
-   #Run the script:
+   ## Run the script:
    ```bash
     python script.py
+   ```
 
-    Follow the on-screen prompts:
+## Follow the on-screen prompts:
 
-        Scan for nearby Bluetooth devices.
+      -  Scan for nearby Bluetooth devices.
 
-        Enter the target Bluetooth address.
+      -  Enter the target Bluetooth address.
 
-        Specify the number of threads for the attack.
+      -  Specify the number of threads for the attack.
 
-        Choose additional options (e.g., exploitation, self-destruct).
+      -  Choose additional options (e.g., exploitation, self-destruct).
 
 ## Disclaimer
 
